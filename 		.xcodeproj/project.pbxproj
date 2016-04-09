@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		550017701CAB2EEF00BF5382 /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 5500176F1CAB2EEF00BF5382 /* profile.png */; };
 		5555486D1C592163003AF612 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5555486C1C592163003AF612 /* AppDelegate.swift */; };
 		5555486F1C592163003AF612 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5555486E1C592163003AF612 /* FirstViewController.swift */; };
 		555548711C592163003AF612 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555548701C592163003AF612 /* SecondViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5500176F1CAB2EEF00BF5382 /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profile.png; path = ../../../../Downloads/profile.png; sourceTree = "<group>"; };
 		555548691C592163003AF612 /* To Do List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "To Do List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5555486C1C592163003AF612 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5555486E1C592163003AF612 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				5555486C1C592163003AF612 /* AppDelegate.swift */,
 				5555486E1C592163003AF612 /* FirstViewController.swift */,
 				555548701C592163003AF612 /* SecondViewController.swift */,
+				5500176F1CAB2EEF00BF5382 /* profile.png */,
 				555548721C592163003AF612 /* Main.storyboard */,
 				555548751C592163003AF612 /* Assets.xcassets */,
 				555548771C592163003AF612 /* LaunchScreen.storyboard */,
@@ -102,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 555548641C592163003AF612 /* Build configuration list for PBXProject "To Do List" */;
+			buildConfigurationList = 555548641C592163003AF612 /* Build configuration list for PBXProject "		" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -128,6 +131,7 @@
 				555548791C592163003AF612 /* LaunchScreen.storyboard in Resources */,
 				555548761C592163003AF612 /* Assets.xcassets in Resources */,
 				555548741C592163003AF612 /* Main.storyboard in Resources */,
+				550017701CAB2EEF00BF5382 /* profile.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +276,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		555548641C592163003AF612 /* Build configuration list for PBXProject "To Do List" */ = {
+		555548641C592163003AF612 /* Build configuration list for PBXProject "		" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5555487B1C592163003AF612 /* Debug */,
@@ -288,6 +292,7 @@
 				5555487F1C592163003AF612 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
